@@ -1,4 +1,4 @@
-# Data tables from Eric L. Hirsh, _Urban Revolt: Ethnic Politics in the Nineteenth-Century Chicago Labor Movement_ (1990)
+# Data tables from Eric L. Hirsch, _Urban Revolt: Ethnic Politics in the Nineteenth-Century Chicago Labor Movement_ (1990)
 
 * TABLE 1. Average Daily Wages in Chicago, 1870—1886 (in dollars)
 * TABLE 2. Chicago’s Occupational Structure, 1870, 1880, 1890 (in percentages)
